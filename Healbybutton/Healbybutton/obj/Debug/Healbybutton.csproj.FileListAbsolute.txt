@@ -1,0 +1,6 @@
+C:\Users\Marcin\source\repos\Healbybutton\Healbybutton\bin\Debug\Healbybutton.dll
+C:\Users\Marcin\source\repos\Healbybutton\Healbybutton\bin\Debug\Healbybutton.pdb
+C:\Users\Marcin\source\repos\Healbybutton\Healbybutton\obj\Debug\Healbybutton.csprojAssemblyReference.cache
+C:\Users\Marcin\source\repos\Healbybutton\Healbybutton\obj\Debug\Healbybutton.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\source\repos\Healbybutton\Healbybutton\obj\Debug\Healbybutton.dll
+C:\Users\Marcin\source\repos\Healbybutton\Healbybutton\obj\Debug\Healbybutton.pdb
