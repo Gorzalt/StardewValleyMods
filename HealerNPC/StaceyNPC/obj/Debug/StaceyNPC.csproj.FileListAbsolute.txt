@@ -1,0 +1,6 @@
+C:\Users\Marcin\source\repos\StaceyNPC\StaceyNPC\bin\Debug\StaceyNPC.dll
+C:\Users\Marcin\source\repos\StaceyNPC\StaceyNPC\bin\Debug\StaceyNPC.pdb
+C:\Users\Marcin\source\repos\StaceyNPC\StaceyNPC\obj\Debug\StaceyNPC.csprojAssemblyReference.cache
+C:\Users\Marcin\source\repos\StaceyNPC\StaceyNPC\obj\Debug\StaceyNPC.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\source\repos\StaceyNPC\StaceyNPC\obj\Debug\StaceyNPC.dll
+C:\Users\Marcin\source\repos\StaceyNPC\StaceyNPC\obj\Debug\StaceyNPC.pdb
